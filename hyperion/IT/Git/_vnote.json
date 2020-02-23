@@ -10,6 +10,16 @@
             "name": "lf-will-be-replaced-by-crlf.md",
             "tags": [
             ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-23T11:30:32Z",
+            "modified_time": "2020-02-23T11:35:55Z",
+            "name": "git-remote.md",
+            "tags": [
+            ]
         }
     ],
     "sub_directories": [
