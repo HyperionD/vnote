@@ -8,6 +8,12 @@
         },
         {
             "name": "Git"
+        },
+        {
+            "name": "Oracle"
+        },
+        {
+            "name": "Linux"
         }
     ],
     "version": "1"
