@@ -14,6 +14,9 @@
         },
         {
             "name": "Linux"
+        },
+        {
+            "name": "Docker"
         }
     ],
     "version": "1"

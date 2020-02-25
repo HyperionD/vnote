@@ -1,0 +1,26 @@
+# docker
+
+
+1.  列出所有容器ID
+
+```
+# docker ps -aq
+```
+
+2. 查看所有运行或者不运行容器
+
+```
+# docker ps -a
+```
+
+3. 停止容器
+
+```
+# docker stop <docker name>/<docker id>
+```
+
+4. 删除容器
+
+```
+# docker rm <docker name>/<docker id>
+```
