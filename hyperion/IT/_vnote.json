@@ -17,6 +17,9 @@
         },
         {
             "name": "Docker"
+        },
+        {
+            "name": "前端"
         }
     ],
     "version": "1"
