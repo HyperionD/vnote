@@ -11,3 +11,9 @@ npm config delete proxy
 
 npm config delete https-proxy
 ```
+
+修改源
+
+```
+npm config set registry https://registry.npm.taobao.org
+```

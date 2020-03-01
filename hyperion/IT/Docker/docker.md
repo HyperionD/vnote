@@ -24,3 +24,9 @@
 ```
 # docker rm <docker name>/<docker id>
 ```
+
+5. 将容器导出为镜像
+
+```
+# docker export furious_bell > /home/myubuntu-export-1204.tar
+```
