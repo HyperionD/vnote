@@ -29,3 +29,11 @@ select * from v$session
 ```
 alter session close database link <db_link_name>
 ```
+
+删除session
+
+```
+# sid与serial#通过"select * from v$session"查询
+
+alter system kill session 'sid,serial#'
+```
