@@ -20,6 +20,16 @@
             "name": "oracle-cmd.md",
             "tags": [
             ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-03-05T11:48:27Z",
+            "modified_time": "2020-03-05T12:26:48Z",
+            "name": "oracle-session.md",
+            "tags": [
+            ]
         }
     ],
     "sub_directories": [
